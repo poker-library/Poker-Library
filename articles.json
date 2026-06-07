@@ -1,5 +1,50 @@
 [
   {
+    "id": "auto-938d9fc44b",
+    "title": "ブラフの真髄",
+    "url": "https://note.com/ryu1poker_2nd/n/ndc577deada51",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-06-06",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282965230/rectangle_large_type_2_027ebb11f560e95e08a4728ba005932e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-178dc36000",
+    "title": "【超実践的】ブラフにもバリューにもなるハンド【AKKQゲーム】",
+    "url": "https://note.com/ryu1poker_2nd/n/nd3852895e80b",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-06-05",
+    "desc": "",
+    "tags": [
+      "バリュー",
+      "ブラフ",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282672552/rectangle_large_type_2_7a69bc6d69512c74fee00a079fb35dbd.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-6dba0658e2",
+    "title": "均衡戦略(GTO) vs 搾取戦略(Exploit)",
+    "url": "https://note.com/ryu1poker_2nd/n/n60c2bca3068c",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-06-04",
+    "desc": "",
+    "tags": [
+      "GTO",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282384169/rectangle_large_type_2_794cf0383539c50bcb7df0ac5f0b6017.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-227b6e464d",
     "title": "GTOから見た4つの共通リーク デポラライズ・オーバーベット・レイズ・ブラフキャッチ",
     "url": "https://note.com/yusuke_poker_th/n/n87fc4ee6fadf",
@@ -282,6 +327,51 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-341c12f1aa",
+    "title": "【設定由来のスモールベット】トイゲームから学ぶ最適サイズの考え方③",
+    "url": "https://note.com/ryu1poker_2nd/n/nabd50d6dbbf5",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-30",
+    "desc": "",
+    "tags": [
+      "ベット",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1780132300-2FcBwpkzYgaR1teW0hjyU7vI.png",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-ec4fc8a30a",
+    "title": "トイゲームから学ぶ最適サイズの考え方②",
+    "url": "https://note.com/ryu1poker_2nd/n/nd0a55900f200",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-30",
+    "desc": "",
+    "tags": [
+      "ベット",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1780123576-pHSRAbYr40z6IEJs2VMFQ18l.png",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-69c19ebf81",
+    "title": "トイゲームから学ぶ最適サイズの考え方①",
+    "url": "https://note.com/ryu1poker_2nd/n/nb8bbcc8fedd5",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-30",
+    "desc": "",
+    "tags": [
+      "ベット",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1780112839-ohtSG7Vd2yY4n0IK3Qq8Ar6v.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-f779bb7a57",
     "title": "GTO Wizardで勉強効率を3倍にする方法 — 無料機能だけでここまでできる",
     "url": "https://note.com/pokerchannel/n/na5b3739f7228",
@@ -551,6 +641,52 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-2071e99d37",
+    "title": "【FGS】ICMは未来を評価していない",
+    "url": "https://note.com/ryu1poker_2nd/n/n956c7aa7761f",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-28",
+    "desc": "",
+    "tags": [
+      "ICM"
+    ],
+    "thumbnail": "",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-c5215394c0",
+    "title": "【Poker】そのレイズ、オールインに耐えられる？――ドデカ4ベットと過剰3ベットの共通構造",
+    "url": "https://note.com/ryu1poker_2nd/n/n46d4ae2f5d7e",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-28",
+    "desc": "",
+    "tags": [
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "3bet"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1779947902-3t9UjWcTfgv8PqnZkBrQdlXJ.png",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-f34469d35b",
+    "title": "【ブロックベットの構造】トイゲームに刻みbetを入れると何が起こるか？",
+    "url": "https://note.com/ryu1poker_2nd/n/nd86a6a689bcc",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-28",
+    "desc": "",
+    "tags": [
+      "ベット",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1779884309-ZvuTl9yzF1pqrj6cCQVL0O4d.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-cf80e85223",
     "title": "ポーカーのポットオッズとは何か 計算方法と実戦での使い方",
     "url": "https://note.com/yusuke_poker_th/n/n9128de9e106c",
@@ -684,6 +820,35 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270580743/rectangle_large_type_2_6a0ef93ecc5aee2839483d5ab56f73ce.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "auto-e3f96be87e",
+    "title": "【均衡状態とは？】無差別化(インディファレント)は双方向に連鎖する",
+    "url": "https://note.com/ryu1poker_2nd/n/n0779a954b121",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-26",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-dca16de5af",
+    "title": "【話題の】あと一人でITMのプリフロップでKKを降りる？降りない？【Spadie Main】",
+    "url": "https://note.com/ryu1poker_2nd/n/n31551085d8e3",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-26",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279630672/rectangle_large_type_2_3628f1b2bc55a4fba09eeb4e2f49c4c1.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-eb8de99378",
@@ -909,6 +1074,20 @@
     "source": "rss"
   },
   {
+    "id": "auto-b1ef358fa0",
+    "title": "AKQQゲーム",
+    "url": "https://note.com/ryu1poker_2nd/n/nd38f36ea59ac",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1779541468-ViUp3n2Bs8TQy69mMLDYEZrN.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-d33fde7730",
     "title": "初心者が最初に押さえるポーカー戦略の土台",
     "url": "https://note.com/yusuke_poker_th/n/ne6f1d5edc694",
@@ -949,6 +1128,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/yGbNj9BJg_g/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-4b44f3a31f",
+    "title": "MDFが壊れるスポット",
+    "url": "https://note.com/ryu1poker_2nd/n/n45bf101f7020",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-23",
+    "desc": "",
+    "tags": [
+      "MDF"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1779532977-8dO2EmRJoZrCszHhPBv9IwQf.png",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-e20649bafa",
@@ -1531,6 +1724,23 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-5a37420ddd",
+    "title": "【GTOwizard MTT Solution】CSTEとは？",
+    "url": "https://note.com/ryu1poker_2nd/n/n5c4196ff7633",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-21",
+    "desc": "",
+    "tags": [
+      "MTT",
+      "GTO",
+      "ツール",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1779329689-Dd2OIB6GKRTbmilaofu7yg5Y.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-cc1a57514a",
     "title": "【ポーカー戦略/トーナメント】SBvsBBのカウンターエクスプロイト戦略①※上級者向け",
     "url": "https://note.com/pokerpokerpro/n/n2487368cbdbb",
@@ -2105,6 +2315,20 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-950bea5ddc",
+    "title": "感覚でプレイすると、なぜ人はタイトになるのか？",
+    "url": "https://note.com/ryu1poker_2nd/n/n0f549f55bc9b",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-15",
+    "desc": "",
+    "tags": [
+      "リーク"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778850676-AFodBQ1S029368iROJUCWkcP.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-bbaf61f261",
     "title": "【ポーカー戦略】バブルファクターを考慮したスリーベットレンジ②",
     "url": "https://note.com/pokerpokerpro/n/n637724112041",
@@ -2168,6 +2392,21 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/SWXI04PLYac/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-9ff5c57d10",
+    "title": "ショートスタックの「入れるか？刻むか？」問題",
+    "url": "https://note.com/ryu1poker_2nd/n/n0079799245a1",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-14",
+    "desc": "",
+    "tags": [
+      "特定のスタック",
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778723914-61VfLHTrMcNsGKOPuq0ZpYy2.png",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-36f857f1dd",
@@ -2328,6 +2567,22 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270295603/rectangle_large_type_2_7cbe049c5d59a3e3b5c05c8017c92c27.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "auto-dc0ee7e631",
+    "title": "【今日から使える】MTTで同じスタックなのに状況によってオープンレンジが変わる理由【傍観者利益】",
+    "url": "https://note.com/ryu1poker_2nd/n/nf3eb8c90fe95",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-13",
+    "desc": "",
+    "tags": [
+      "MTT",
+      "特定のスタック",
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778633076-C94cYmAyJwUkTfXFSbiH7r8L.png",
+    "source": "fetch_creator"
   },
   {
     "id": "manual-1778684794221",
@@ -2565,6 +2820,39 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/mAcDsuEKG7c/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-3646f5213a",
+    "title": "ICM下における1bbの値段",
+    "url": "https://note.com/ryu1poker_2nd/n/n5df689623dd0",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-12",
+    "desc": "",
+    "tags": [
+      "ICM",
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778566980-nXf2Z5ru9HjM1o6NOURPDAK8.png",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-33521691c7",
+    "title": "GTO Wizardを使って無料でMTTのICMを勉強しよう【その0】",
+    "url": "https://note.com/ryu1poker_2nd/n/n1b3edbae06d2",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-12",
+    "desc": "",
+    "tags": [
+      "MTT",
+      "GTO",
+      "勉強法",
+      "ソルバー",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778554676-16IGkmO9JghwtPnZfLbqWoa5.png",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-592f098243",
@@ -2886,6 +3174,22 @@
     "thumbnail": ""
   },
   {
+    "id": "auto-cd178c3954",
+    "title": "vsタイト・vsワイドでFlop GTO戦略がどのように変わるのか？",
+    "url": "https://note.com/ryu1poker_2nd/n/neff26e737288",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-10",
+    "desc": "",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778379674-EG2pfTjw1bmv5JP6RizM0NWV.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-5a2b17adbe",
     "title": "１日１問GTO戦略クイズ【#20】",
     "url": "https://www.youtube.com/watch?v=irTvjCjfevw",
@@ -2921,6 +3225,22 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/gBANl1Rfoec/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-8731e2e5df",
+    "title": "ICMの影響でFoldの期待値がプラスになる。",
+    "url": "https://note.com/ryu1poker_2nd/n/nc4bcde6d6adf",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-09",
+    "desc": "",
+    "tags": [
+      "理論",
+      "ICM",
+      "フォールド"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778311027-CirUbMRZdFNVXyLnjutlIJ3W.png",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-34ac583418",
@@ -3064,6 +3384,22 @@
       "MTT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/273246026/rectangle_large_type_2_7945b49cf1acaf4a475ef9fdc67e1a9a.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-92c910b744",
+    "title": "【MTT】GTO Wizardに二つの設定がある理由【200人＆1000人】",
+    "url": "https://note.com/ryu1poker_2nd/n/n1f19ada672de",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-08",
+    "desc": "",
+    "tags": [
+      "MTT",
+      "GTO",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1778230676-5XKnMih1vTUcyQfWx0Cz2elD.png",
     "source": "fetch_creator"
   },
   {
@@ -3255,6 +3591,20 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-63d2adb4ff",
+    "title": "こんなコーチングには要注意",
+    "url": "https://note.com/ryu1poker_2nd/n/n5309a799715c",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-05",
+    "desc": "",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1777956261-N1RqyBXZKhD0IGumQoU6Cwek.png",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-5a2f7dd85a",
     "title": "１日１問GTO戦略クイズ【#15】",
     "url": "https://www.youtube.com/watch?v=88pk1t-9sYE",
@@ -3395,6 +3745,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/content/2026/05/Thumbnail.png",
     "source": "web_rss"
+  },
+  {
+    "id": "auto-cbcdd2c9aa",
+    "title": "Turbo day1は損なのか？得なのか？",
+    "url": "https://note.com/ryu1poker_2nd/n/n2db6dfd5a171",
+    "author": "Hatano【poker上級基礎戦略】",
+    "platform": "note",
+    "date": "2026-05-04",
+    "desc": "",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1777898325-DJXLMKdCfOuUPSyv6VacNBAg.png",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-92003697a0",
