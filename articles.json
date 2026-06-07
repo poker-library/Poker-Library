@@ -671,6 +671,70 @@
     "source": "rss"
   },
   {
+    "id": "auto-c5996d3341",
+    "title": "【ポーカーの深淵】最弱の中の最強、「Aハイ」はなぜこれほどまでに強いのか？",
+    "url": "https://note.com/poker_room_tt/n/n4b78c43868db",
+    "author": "Poker Room TT@西中島南方",
+    "platform": "note",
+    "date": "2026-05-26",
+    "desc": "いつもお世話になっております。 Poker Room TT 店長の中森です。 ポーカーを打っていると、お互いに役ができず、最後に「Aハイです……」「あ、こっちもAハイですが、キッカーが勝ちです」なんて会話で決着がつくことがありますよね。 続きをみる",
+    "tags": [
+      "特定の役",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/270580743/rectangle_large_type_2_6a0ef93ecc5aee2839483d5ab56f73ce.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-eb8de99378",
+    "title": "GTO Wizard Solution Browserの読み方と学習への使い方",
+    "url": "https://note.com/yusuke_poker_th/n/nb81a9dee7096",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-25",
+    "desc": "GTO WizardのSolution Browserは、ソルバーの答えを確認するための画面です。 ただし、単に「このハンドはベット」「このハンドはフォールド」と見るだけなら、せっかくの機能をかなり使い切れていません。Solution Browserで本当に学びたいのは、個別ハンドの正解ではなく、レンジ全体がどのように作られているかです。 続きをみる",
+    "tags": [
+      "GTO",
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/280110198/rectangle_large_type_2_a9b61ad1f9b520139ac4678407175150.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b7f5907c52",
+    "title": "GTO Wizard Practiceモードでソルバー知識を実戦判断に変える方法",
+    "url": "https://note.com/yusuke_poker_th/n/n34fc4b929aae",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-25",
+    "desc": "ソルバーを見ていると、「なるほど」と思う場面はたくさんあります。 しかし、その理解がそのまま実戦で使えるとは限りません。 続きをみる",
+    "tags": [
+      "GTO",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/280109998/rectangle_large_type_2_9b553a4c1c0304918ab3529ae2389457.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d55aeffd91",
+    "title": "GTO Wizardを使ったポーカー学習ルーティンの作り方",
+    "url": "https://note.com/yusuke_poker_th/n/n08651b661148",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-25",
+    "desc": "GTO Wizardは、ソルバーの答えを見るためだけのツールではありません。使い方次第では、ハンドレビュー、理論学習、反復練習をひとつの流れにまとめられます。 ポーカー学習でよくある失敗は、「勉強した気分」になって終わることです。ソリューションを眺める。トレーナーを少し回す。ハンドレビューを単発で行う。どれも悪くはありませんが、それぞれがバラバラだと、実戦の判断はあまり変わりません。 続きをみる",
+    "tags": [
+      "GTO",
+      "理論",
+      "勉強法",
+      "ツール",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/280109821/rectangle_large_type_2_8d841b63210342b55418175827c65b29.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-8930a05db1",
     "title": "そのBBコールは死に金。3xオープンに「7割フォールド」すべき科学的根拠",
     "url": "https://note.com/7poke_poker/n/n9e0304d466a5",
