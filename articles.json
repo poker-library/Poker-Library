@@ -1,5 +1,887 @@
 [
   {
+    "id": "auto-ef9f01fb91",
+    "title": "ポーカー用語集100選【初心者が知っておくべき必須ワード】",
+    "url": "https://note.com/poker_jp/n/n61b835b14f3b",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-15",
+    "desc": "ポーカーを始めたばかりのころ、テーブルで飛び交う英語や専門用語に戸惑った経験はありませんか？「コール」「レイズ」はなんとなくわかっても、「ドンクベット」「レンジ」と言われると急に頭が真っ白になってしまう方も多いはずです。この記事では、初心者が最初に覚えておくべきポーカー用語を厳選して100語解説します。手元に置いておくだけで、テーブルでの会話がぐっとスムーズになりますよ。 続きをみる",
+    "tags": [
+      "初心者向け",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e5d7f3c6f36dcb81ae117c5a2a262cf2d40fa946.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-be99c05a40",
+    "title": "Aハイ盤面のKKを救う「3betサイズ設計」の極意",
+    "url": "https://note.com/7poke_poker/n/na56d04b43b79",
+    "author": "「ぽ」のハナシ🃏🐟 | 本気ドリル・基礎クイズから、「ぽ」な日常・ニュースまでなんでもあり",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "本記事は以下の記事を取り上げ、独自の視点で解説を加えた解説記事です。 出典・引用元: Five Reasons Winning Poker Players Lose Money at the WSOP プレミアムハンドを襲う「Aオーバーカード」の悲劇 続きをみる",
+    "tags": [
+      "特定のハンド",
+      "ベット",
+      "フロップ",
+      "3bet",
+      "3BP"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/285505133/rectangle_large_type_2_4d1eade21cbdc092c8fa705fb7391764.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-dec18d1439",
+    "title": "ティルトを防ぐ方法：ポーカーのメンタルゲーム完全ガイド",
+    "url": "https://note.com/poker_jp/n/n456515ffeba8",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "ポーカーで負け続けるとき、なぜか冷静さを失って普段はしないような判断を繰り返してしまった経験はありませんか？それこそが「ティルト」と呼ばれる状態で、多くのプレイヤーが最も多くのお金を失う瞬間です。この記事では、ティルトの仕組みから具体的な予防策まで、メンタルゲームの基本を徹底的に解説します。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4eccb3968ece6199de17a76daeb1accd3fba2c30.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-4461949ec0",
+    "title": "MTTで勝てない人は、ハンドでアクションを決めている",
+    "url": "https://note.com/whitezexy/n/n498eaadd4d8e",
+    "author": "ゼクシィ",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "前回の記事 「GTOを覚えて満足しているやつが、一番カモにされている」 では、GTOを覚えることは出発点にすぎず、実戦で利益を伸ばすのは「相手がその正解を選べない場所」を見つけることだ、という話をした。 観察し、仮説を立て、小さくズラし、反応を見て、また修正する。これがGTOの次に必要な技術だと書いた。 続きをみる",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/285471876/rectangle_large_type_2_0634dbdfde3963e887e64989867e0e5d.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5a17a03ec6",
+    "title": "AKQゲームで考える赤線と青線の変化について",
+    "url": "https://note.com/koko_3939/n/n016c09fe2622",
+    "author": "koko",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "はじめに ポーカーには赤線と青線というものがある。 続きをみる",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/285359689/rectangle_large_type_2_f9b957d2e5357caaa76fa271e6ccfcad.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-11e1d836a6",
+    "title": "ショートスタック戦略：10BBからの正しいプッシュ/フォールド",
+    "url": "https://note.com/poker_jp/n/n0559d81a420b",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "トーナメントポーカーで10BB前後のショートスタックになった瞬間、多くのプレイヤーは焦りや迷いを感じます。しかし、このスタック域には「プッシュ/フォールド戦略」という明確な答えが存在します。正しい基準を身につけることで、ショートスタックを最大限に活かした戦いが可能になります。 続きをみる",
+    "tags": [
+      "MTT",
+      "特定のスタック",
+      "オールイン",
+      "フォールド"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/48033be04eff1347a25b5d2394a3b0f3154ca147.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ec510c93a1",
+    "title": "自分用メモ:A~Jhiボード(強HMSD)のCB戦略(single size mode)",
+    "url": "https://note.com/t_b_note/n/nfca2d962af02",
+    "author": "taka",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "HMSDとは: HiカードとMiddleカードがストレートドローになっているボードのこと。 強HM : AK,AQのような超2hiカードのこと (詳しくはamuさんの記事を参照) 集合分析から見繕った、3つのボードからバリューとブラフを探しだし、共通点を出していこうと思います。 続きをみる",
+    "tags": [
+      "特定のボード",
+      "CB"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6e08e43ad6e7786f3d45d085cabd192694d8f5ce.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b2cff7d079",
+    "title": "【月曜・無料】GTOドリル｜実戦再現3問｜SBアクション基礎 #3",
+    "url": "https://note.com/poker_gto/n/n6469b6ecc636",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-14",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 SBオープン・コール判断 火 B：比較問題 SBアクション vs BBアクションの差 水 C：レンジ当て スクイーズレンジの形を掴む 木 D：ミス指摘 SBポストフロップのよくある間違い 金 E：スタック別 スクイーズ・スタック深度別判断 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "特定のポジション",
+      "GTO"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281273371/rectangle_large_type_2_1da36e1951dd9e0f152affbc4927a374.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-1ccc7e7a1f",
+    "title": "１日１問GTO戦略クイズ【#44】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker #shorts #戦略 #座学 #ソルバー",
+    "url": "https://www.youtube.com/watch?v=WAe6gl-PmV4",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-14",
+    "desc": "UTG+2 vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/WAe6gl-PmV4/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-4666f43620",
+    "title": "【GTO衝撃の真実】UTGのAQo、迷わずレイズしてない？GTOはフォールドを推奨する理由 #ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=ZzrRS1ISPvs",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-14",
+    "desc": "GTOを体系的に学ぶ→ https://www.amazon.co.jp/dp/B0H25SQQM2 今日の乖離：UTGのAQo、あなたはレイズした？GTOは ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "フォールド",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ZzrRS1ISPvs/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-30e1273c53",
+    "title": "プリフロップレンジの4つの形",
+    "url": "https://japan.gtowizard.com/blog/preflop-range-morphology/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2026-06-14",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "理論",
+      "レンジ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2026/06/Header-2.png",
+    "source": "web_rss"
+  },
+  {
+    "id": "auto-769ece3e0e",
+    "title": "ポケットキングスをフォールドできるか？Tritonのハンド分析が示すポーカーの深淵",
+    "url": "https://note.com/poker_jp/n/nceaee36f8ce7",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ポケットキングスをフォールドできるか？Tritonのハンド分析が示すポーカーの深淵 ポケットキングス（KK）、いわゆる「カウボーイ」のプレイは、理論上はシンプルなはずです。 続きをみる",
+    "tags": [
+      "特定のハンド",
+      "理論",
+      "フォールド"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0f3e7995f82aa8a9e0d7d81ed9a62b16ead9d8b1.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-a8a3fdc640",
+    "title": "ポーカートーナメントのICMとは？バブル戦略を完全解説",
+    "url": "https://note.com/poker_jp/n/ne40c6a20bfdc",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "トーナメントポーカーで「なぜあの場面でオールインしなかったのか？」「なぜそこでフォールドしたのか？」と疑問に感じたことはありませんか？その答えの多くは【ICM（Independent Chip Model）】という考え方に基づいています。ICMを理解することで、バブル前後の複雑な意思決定が驚くほどクリアになります。 続きをみる",
+    "tags": [
+      "MTT",
+      "ICM",
+      "フォールド"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/daa0498e24bfc43cd19708ef2fd40c73d9752e37.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-724c8c074b",
+    "title": "ターン・リバーでの正しいベットサイズ選択",
+    "url": "https://note.com/poker_jp/n/ncbb87f204115",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ターンとリバーのベットサイズを間違えると、どれだけ良いハンドを持っていても利益を最大化できません。フロップを無事に乗り越えた後のこの2つのストリートこそ、ポーカーで最も大きなポットが生まれる場面です。この記事では、ターン・リバーにおける正しいベットサイズの選択方法を、具体的な数字と状況を交えながら解説します。 続きをみる",
+    "tags": [
+      "ターン",
+      "リバー",
+      "ベット"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4508f26f9faf983330522482449d03399859613c.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-f11451165f",
+    "title": "ポーカー初心者の勉強法 学習ロードマップと最初に読む10本",
+    "url": "https://note.com/yusuke_poker_th/n/n3286e521520b",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ポーカー初心者は、何から勉強すればよいのでしょうか。プリフロップ、Cベット、GTO、ICM、ブラフキャッチ、メンタル、バンクロール管理が同時に目に入ると、全部が重要に見えます。しかし、学ぶ順番を間違えると、個別の知識を覚えても実戦の判断につながりません。 ただし、初心者の段階で必要なのは、知識を横に増やすことではありません。まずは、ポーカーの判断を支える土台を作ることです。EV、レンジ、ポジション",
+    "tags": [
+      "勉強法",
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/285004746/rectangle_large_type_2_5b4a545ce88477eb0fcd03e4f56bb36c.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-027940c3c7",
+    "title": "【HU】プリフロップ3bet過少なプレイヤーへの戦略",
+    "url": "https://note.com/zoomagaaa/n/n77b0ebe0b461",
+    "author": "ポーカー情報マガジン～ZooMaga～",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "突然ですが、皆さんはヘッズアップをプレイする経験はどれほどあるでしょうか？ ヘッズアップは愛好家も多く、またハイレートのキャッシュゲームプレイヤーの多くは馴染みの深いゲームフォーマットでもありますが、筆者の感覚から言えばそれほど本腰を入れて勉強したことがあるプレイヤーはまだ少数派だと感じています。 そしてこのような経験の浅いプレイヤーが、特に乖離しやすいと考えられるのが、プリフロップだと思います。",
+    "tags": [
+      "リーク",
+      "ヘッズアップ",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284897493/rectangle_large_type_2_edada08a698417ebb7a3efc24a9aa7f8.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-80c8ce9a3c",
+    "title": "なぜあのブラフは通ったのか？成功するブラフに共通する3つの条件",
+    "url": "https://note.com/pro_tako/n/n5355061d086a",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "導入 「ブラフって、運じゃないの？」 続きをみる",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282710344/rectangle_large_type_2_be2996c8f036af234725be5971c3d160.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e9ebaa4f88",
+    "title": "ポーカーの分散とは 運と実力をサンプル数で見分ける",
+    "url": "https://note.com/yusuke_poker_th/n/nf2c2196cf693",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ポーカーは運なのか、実力なのか。 この問いに対する一番実戦的な答えは、「どちらも正しい」です。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284986310/rectangle_large_type_2_f67d49be7e3e3919583caf03501279e5.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-82fdb0a30f",
+    "title": "ポーカーのティルト対策 7種類の原因と実戦での直し方",
+    "url": "https://note.com/yusuke_poker_th/n/na7a1d8c55eac",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ティルトは、ただ怒っている状態ではありません。 怒り、不公平感、焦り、自己嫌悪、過信、復讐心、取り返したい気持ち。こうした感情が、普段の戦略を崩してしまう状態です。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284985787/rectangle_large_type_2_e13f3b0d95b4262f43ab025da5272224.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-4e71e26285",
+    "title": "MTT・ICMの勉強法 学習ロードマップと最初に学ぶ順番",
+    "url": "https://note.com/yusuke_poker_th/n/n19492a483467",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "MTTとICMは何から勉強すればよいのでしょうか。最初に押さえたいのは、トーナメントではハンドの強さやチップEVだけで判断できないという点です。同じ1bbでも場面によって価値が変わり、バブル、ファイナルテーブル、ショートスタックの存在、ビッグスタックにカバーされている状況では、キャッシュゲームなら自然なコールが大きなミスになることがあります。 MTT・ICM学習で最初に必要なのは、細かいレンジ表を",
+    "tags": [
+      "勉強法",
+      "MTT",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/285004985/rectangle_large_type_2_4796c5c1bc264df494a0a280a22ecab2.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-26c416034c",
+    "title": "ポーカーでAゲームを増やす方法 メンタルゲームの基本",
+    "url": "https://note.com/yusuke_poker_th/n/nf58d173e5155",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-13",
+    "desc": "ポーカーで勝てない原因は、必ずしも技術不足だけではありません。 レンジを勉強している。ソルバーも見ている。レビューもしている。それでも実戦になると、集中が切れる、雑なコールが増える、負けた直後に判断が荒くなる。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284985442/rectangle_large_type_2_8ffb69172ae9122eabc2cecce2ee4052.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-60d9333cf3",
+    "title": "１日１問GTO戦略クイズ【#43】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker #shorts #戦略 #座学 #ソルバー",
+    "url": "https://www.youtube.com/watch?v=QsQSZAR8dPg",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-13",
+    "desc": "UTG vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/QsQSZAR8dPg/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-093e375f54",
+    "title": "マニラポーカー攻略法",
+    "url": "https://www.youtube.com/watch?v=KHN2uIxIt-8",
+    "author": "ハンチョウのポーカーch",
+    "platform": "youtube",
+    "date": "2026-06-13",
+    "desc": "https://note.com/noom_2/n/n6eac7e213efb ハンチョウのポーカーchのnoom^2です！ GTO wizardを用いてポーカーの学習のため ...",
+    "tags": [
+      "特定の環境"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/KHN2uIxIt-8/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-07412b843e",
+    "title": "【GTOクイズ】フラッシュが外れたリバー、ノーペアKQのGTO正解は？#ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=NoBfm0qid5E",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-13",
+    "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
+    "tags": [
+      "リバー",
+      "特定のポジション",
+      "特定の役",
+      "GTO",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/NoBfm0qid5E/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-8ba59fb820",
+    "title": "ポーカーのマルチウェイポット基本戦略 3人以上でCベットが危険になる理由",
+    "url": "https://note.com/yusuke_poker_th/n/na3d4f894cf8c",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-12",
+    "desc": "ポーカーを勉強するとき、多くの教材はヘッズアップポットを中心に作られています。 BTNがオープンしてBBがコールする。 続きをみる",
+    "tags": [
+      "マルチウェイ",
+      "ベット",
+      "CB"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284898711/rectangle_large_type_2_5a53a3e51dbf19609ca834f93b006fea.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d9abd9c979",
+    "title": "「コールで負けた」と嘆くあなたへ。MDFを知らない人間は永遠にブラフに屈する♠️",
+    "url": "https://note.com/supe_queen/n/n46a5c5f8fb7f",
+    "author": "すぺ美♠️",
+    "platform": "note",
+    "date": "2026-06-12",
+    "desc": "はっきり言う。あなたが降りすぎて負けるのは、性格が弱いからじゃない。 これは慰めの記事じゃない。 続きをみる",
+    "tags": [
+      "理論",
+      "ブラフ",
+      "コール",
+      "MDF"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284841640/rectangle_large_type_2_8a5c44dbaaabbaf61a5a4041ab41d492.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-520828d130",
+    "title": "ICMアルゴリズム検証方法の解説 (On a Model for Storage and Search 解説)",
+    "url": "https://note.com/the_rivemagic_kq/n/ncf59e9142230",
+    "author": "the Rive Magic",
+    "platform": "note",
+    "date": "2026-06-12",
+    "desc": "概要 Theoretical Breakthroughs in ICM Today, we’ll share one of the most significant theoretical br blog.gtowizard.com 続きをみる",
+    "tags": [
+      "GTO",
+      "ツール",
+      "ソルバー",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284797764/rectangle_large_type_2_d187a04f4a17a44a5f82a33ff4ae85f9.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-6a32a9d405",
+    "title": "１日１問GTO戦略クイズ【#42】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker #shorts #戦略 #座学 #ソルバー",
+    "url": "https://www.youtube.com/watch?v=lcrjilWW4l4",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-12",
+    "desc": "LJ vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "ソルバー",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/lcrjilWW4l4/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-9d939cc4b4",
+    "title": "【徹底解説】ポーカーで「ポジション」が最強の理由｜知るだけで勝率が変わる5つの真実",
+    "url": "https://note.com/poker_note_aa/n/n27d5dcb0dc78",
+    "author": "EquityLog",
+    "platform": "note",
+    "date": "2026-06-11",
+    "desc": "はじめに 「なぜ同じ手札なのにあの人は勝てるんだろう？」 続きをみる",
+    "tags": [],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b41b6c3d607dc1d817f20cfc9164a79c9edd2564.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-0d031ccad5",
+    "title": "【金曜・無料】GTOドリル｜スタック別3問｜ターン・リバーの判断 #2",
+    "url": "https://note.com/poker_gto/n/ndb8256fbc5fc",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-11",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "ターン",
+      "リバー",
+      "特定のスタック",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281207996/rectangle_large_type_2_4e2e744c08f1bfe2a970cd46d4fc89bf.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c4a11de7e0",
+    "title": "初級編①MESで見るべき相手のリーク5選 テル読みも含めたライブポーカー実戦チェックポイント",
+    "url": "https://note.com/agile_stoat853/n/n1b31838e3f0f",
+    "author": "MES _Poker_Lab",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "こんにちは。 MES_Poker_Labです。 前回の記事では、テキサスホールデムにおける MES（Maximally Exploitative Strategy）＝最大搾取戦略 の基本的な考え方について書きました。 MESを簡単に言うと、 相手のミスや偏りを見つけて、そこから最大限EVを取る戦略 です。 ただし、相手のリークを見つけると言っても、最初は何を見ればいいのか分かりにくいと思います。 ",
+    "tags": [
+      "プリフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定の環境",
+      "理論",
+      "エクスプロイト",
+      "MES",
+      "テル",
+      "リーク",
+      "ブラフ",
+      "ベット",
+      "コール",
+      "チェック"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284157343/rectangle_large_type_2_939888fcbb66dc00652683c59d2ea9f4.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5b0a3f3a37",
+    "title": "ポーカーGTOの勉強法 学習ロードマップとソルバーの読み方",
+    "url": "https://note.com/yusuke_poker_th/n/n7335fce9b154",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "ポーカーGTOは何から勉強すればよいのでしょうか。GTO学習でつまずく原因の多くは、ソルバー結果を正解表として見てしまうことです。あるハンドが37%ベット、63%チェックと表示されると、その数字を覚えようとしてしまいます。しかし実戦で必要なのは、細かい頻度を暗記することではありません。 GTOは、相手に一方的に搾取されにくい基準戦略です。学習の目的は、ソルバーの数字を再現することではなく、なぜその",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284368180/rectangle_large_type_2_b74a985b9d950c276fb17ce3d7e0519d.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-2f979c5838",
+    "title": "ポーカーのエクイティ保持とは 相手レンジが狭くなっても価値が残るハンド",
+    "url": "https://note.com/yusuke_poker_th/n/n615a738534d4",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "フロップで50%のエクイティがあるハンドは、どれも同じ価値でしょうか。 実戦では、そうではありません。 続きをみる",
+    "tags": [
+      "理論",
+      "エクイティ",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284366995/rectangle_large_type_2_92c8d6dccd3dbd9458f96772c2a33de3.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-26dc75c58e",
+    "title": "【ポーカー/エクスプロイト戦略】ヘッズアップ(HU)におけるオールイン/オールインコールの基準①",
+    "url": "https://note.com/pokerpokerpro/n/n9cf51322cc16",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回はヘッズアップの オールインレンジについて解説します。 続きをみる",
+    "tags": [
+      "理論",
+      "エクスプロイト",
+      "オールイン",
+      "コール",
+      "ヘッズアップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284304494/rectangle_large_type_2_a265db48facb3fc0fb20abf9814da932.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-f17bb5c354",
+    "title": "ポーカー上達したいあなたへ②",
+    "url": "https://note.com/suzuberu24/n/n886c0e87b991",
+    "author": "スズハラ",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "引き続きポーカー上達へのコツを綴ります。 ティルトするな 絶対に焼けるな 続きをみる",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284238639/rectangle_large_type_2_57a0a2232b28c5e52e657b8157c0bf85.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-6850ebfb0d",
+    "title": "ポーカーのエクスプロイト戦略 5つのリーク分類とGTOからのズラし方",
+    "url": "https://note.com/yusuke_poker_th/n/nd6fece4c1dd8",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "相手に合わせてプレーを変えることは、ポーカーで勝率を上げるために欠かせません。 ただし、「相手が弱そうだから広くブラフする」「この人はコールしすぎだからバリューを打つ」といった感覚だけでは、調整が雑になりやすいです。どのラインで相手がズレているのか、そのズレがどのハンドクラスに影響するのか、こちらはどれくらいGTOから外れてよいのかを整理しないと、逆に自分が悪用される側になります。 続きをみる",
+    "tags": [
+      "GTO",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284213295/rectangle_large_type_2_95901414b99e8d732e98c09006d2b723.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e03f7890fc",
+    "title": "そのベット、本物？ブラフ？初心者でも使えるブラフキャッチの3つのポイント",
+    "url": "https://note.com/pro_tako/n/nf3559c62bb66",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "導入 「なんか相手がブラフしてる気がする。でも怖くてコールできない。」 続きをみる",
+    "tags": [
+      "初心者向け",
+      "ブラフ",
+      "ベット",
+      "コール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282711266/rectangle_large_type_2_66ec0e30438e7c4860a6287eacfbb0e5.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-7195cd4a94",
+    "title": "【木曜・無料】GTOドリル｜ミス指摘3問｜フロップでよくある判断ミス #2",
+    "url": "https://note.com/poker_gto/n/nb2f7b499f044",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-10",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "フロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281205556/rectangle_large_type_2_4676888ad3e80cadf4f3d8ed38e03162.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-7f99165edf",
+    "title": "「とりあえずコール」が、あなたの財布を毎月殺している——MDFという冷たい守り方♠️",
+    "url": "https://note.com/supe_queen/n/n7a1d734ae837",
+    "author": "すぺ美♠️",
+    "platform": "note",
+    "date": "2026-06-09",
+    "desc": "あなたが負けてるのは、ブラフを打たれたからじゃない。 これは慰めの記事じゃない。 続きをみる",
+    "tags": [
+      "理論",
+      "ブラフ",
+      "コール",
+      "MDF"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/283971296/rectangle_large_type_2_ed986683cbce53393684e57c1a503e87.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-bbfceda083",
+    "title": "【水曜・無料】GTOドリル｜レンジ当て3問｜COオープンレンジの形 #2",
+    "url": "https://note.com/poker_gto/n/n76c92d3af064",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-09",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "理論",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281204177/rectangle_large_type_2_d1ef12885ea22534ee37c99d4912c115.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-17f8c232ae",
+    "title": "【ポーカー戦略/MTT】他プレイヤーのスタック量に対するオールインレンジの調整※上級者向け",
+    "url": "https://note.com/pokerpokerpro/n/n91db0a7164e7",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-09",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回は トーナメント(MTT)の対策 記事です。 続きをみる",
+    "tags": [
+      "MTT",
+      "特定のスタック",
+      "理論",
+      "エクスプロイト",
+      "上級者向け",
+      "オールイン"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b43c68b9e7a55c759f96ef22fdd281fe9bcb5cd6.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-9c633e96e1",
+    "title": "【火曜・無料】GTOドリル｜比較問題3問｜BTN vs CO レンジの差 #2",
+    "url": "https://note.com/poker_gto/n/nf81318a25f00",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-08",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "理論",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281202501/rectangle_large_type_2_2b8b34301364c36601391fda9292abf5.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c56e2956e9",
+    "title": "ポーカーのソルバー学習を始める方法 スポット優先度とフロップサブセットで迷わない",
+    "url": "https://note.com/yusuke_poker_th/n/n98ff39af1554",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-08",
+    "desc": "ソルバー学習で最初にぶつかる壁は、理論の難しさだけではありません。 見なければならない場所が多すぎることです。 続きをみる",
+    "tags": [
+      "勉強法",
+      "ソルバー",
+      "フロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/283546231/rectangle_large_type_2_cae10f87bc672c2c4ab5c36b1bc08186.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-0e14d7dd05",
+    "title": "【完全無料】Upswing Pokerの「Preflop Prodigy」アプリでプリフロップ戦略を完全攻略しよう",
+    "url": "https://note.com/poker_jp/n/n9ee679c3fd17",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ Preflop Prodigy（プリフロップ プロディジー）とは？ 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "ツール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/aed6b1f719caa55c621e97e4d750d12e30019b42.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-cee6f087a8",
+    "title": "ポーカーの基本ルールと役の強さを完全解説【初心者向け】",
+    "url": "https://note.com/poker_jp/n/n8afd8b121eb5",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "ポーカーを始めたいけど、ルールや役がよくわからない——そんな方に向けて、この記事では【テキサスホールデムの基本ルールと役の強さ】をわかりやすく解説します。難しそうに見えるポーカーも、基本さえ押さえれば誰でもすぐにプレイできるようになります。ぜひ最後まで読んで、今日からテーブルに座ってみてください！ 続きをみる",
+    "tags": [
+      "初心者向け",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c041496cfe1fbdce016d3e45863097e6363b02ab.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-951ef1ec39",
+    "title": "「普通」のポーカーを「最強」に変える7つのヒント",
+    "url": "https://note.com/poker_jp/n/nb8751c217a5a",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ はじめに ポーカーで安定した利益を出せずに悩んでいませんか？自分の成績が「ほぼトントン」という状態が続いているとしたら……実は、あなただけではありません。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7bf3bd9fa73f6dfdb90f532193a0145eeefef0dd.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-a34485cb40",
+    "title": "ライブトーナメントで3xオープンに直面したとき、どう戦略を調整すべきか？",
+    "url": "https://note.com/poker_jp/n/nd6c35b43f26f",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "ライブトーナメントで3xオープンに直面したとき、どう戦略を調整すべきか？ 【情報源: PokerNews / 著者: Lukas Robinson（WPT Global Streamer）】 続きをみる",
+    "tags": [
+      "MTT",
+      "特定の環境",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/918dc7abd38b4dfa957a5645b0ba4b404e3b964e.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-a3d0ff6b7d",
+    "title": "あなたがTDなら正しいジャッジができる？WSOP公式ルール6問クイズ",
+    "url": "https://note.com/poker_jp/n/nebf89737793b",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ あなたならどう裁く？WSOPトーナメントディレクター体験 ポーカーの世界最高峰、WSOP（World Series of Poker）の舞台では、トーナメントディレクター（TD）の一言が選手の夏全体の命運を左右することがあります。彼らはWSOPの公式ルールブックに基づいて、時に難しい判断を下し続けます。 続きをみる",
+    "tags": [
+      "MTT",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3810f89db9b322853c4c41ac8bfdbf1d8a20fb79.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b8b16637c0",
+    "title": "WSOP「やり直し」の真実——ミスディールの正式な条件とは？",
+    "url": "https://note.com/poker_jp/n/n9510e94a6949",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ WSOP公式ルールで定められた「ミスディール」とは何か World Series of Poker（WSOP）のテーブルでは、カードが1枚でも表向きになった瞬間に「ミスディール！」と叫ぶプレイヤーを見かけることがよくあります。しかし、世界最高峰のポーカートーナメントでは、「やり直し」はそう簡単に認められるものではありません。 続きをみる",
+    "tags": [
+      "MTT",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/93248e1a5969abd0936222ff93fd35be7122af5f.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-aafe425ca7",
+    "title": "ポーカーコーチング完全ガイド：おすすめトレーニングサイト15選【2026年最新版】",
+    "url": "https://note.com/poker_jp/n/n596c5d3267fa",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ はじめに 最適なポーカートレーニングサイトを見つけるのは、決して簡単ではありません。ポーカーのコーチングは真剣に取り組むべき領域であり、自分に合ったプログラムを選ぶには時間と情報が必要です。そこで今回は、人気の高いポーカーコーチング・トレーニングサイトを徹底的にレビューしました。 続きをみる",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/81fa42a489fbd5e4ce0b2887f25a0da8ffdce303.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-f6ab99e674",
+    "title": "スモールステークスのオンラインポーカートーナメントで勝つための5つのヒント",
+    "url": "https://note.com/poker_jp/n/n4491f9d2bbba",
+    "author": "ポーカーニキ",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "■ スモールステークスのオンライントーナメントで大きく稼ぐ方法 スモールステークス（低レート）のオンラインポーカートーナメントは、純粋に楽しめる素晴らしいゲームです。時にはフラストレーションを感じることもありますが、それを差し引いても、参加している間はワクワク感が絶えません。 続きをみる",
+    "tags": [
+      "MTT",
+      "特定の環境"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/40f57ee1c023dddcfc14e1a015849822a993e8ef.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-18a662d082",
+    "title": "GTOとエクスプロイト、キャッシュゲームではどちらを優先すべきか",
+    "url": "https://note.com/pokernote/n/n05a5f418bdd3",
+    "author": "キャッシュゲーム攻略",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "はじめに: 「GTOかエクスプロイトか」という問いは、少し古い キャッシュゲームを勉強していると、必ず一度はこの問いにぶつかります。GTOを学ぶべきなのか。それとも相手に合わせたエクスプロイトを優先すべきなのか。SNSや動画、コーチング界隈でも、この対立は何度も語られてきました。 続きをみる",
+    "tags": [
+      "キャッシュゲーム",
+      "GTO",
+      "エクスプロイト",
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/283327326/rectangle_large_type_2_6c9507dae517c9cf444ae9805a6bfda1.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ba62cd5477",
+    "title": "2026年版キャッシュゲーム戦略の全体像",
+    "url": "https://note.com/pokernote/n/n6eace4dc1646",
+    "author": "キャッシュゲーム攻略",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "はじめに: キャッシュゲームは「座って強いハンドを待つゲーム」ではなくなった キャッシュゲームを長く打っている人ほど、ここ数年の変化を肌で感じているはずです。昔ながらの説明では、キャッシュゲームは「ブラインドが変わらない」「ICMがない」「いつでも席を立てる」ため、トーナメントよりも純粋なチップEVのゲームだと言われてきました。この説明は今でも間違いではありません。しかし、2026年時点の実戦で勝",
+    "tags": [
+      "キャッシュゲーム"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/283321959/rectangle_large_type_2_ddb8180197bdb5e262b79225687e75fd.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-7339acdc77",
+    "title": "【MTT】\"プレミアハンド\"を降りるべきスポット",
+    "url": "https://note.com/zoomagaaa/n/ne4f7155fbca8",
+    "author": "ポーカー情報マガジン～ZooMaga～",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "強いポーカープレイヤーが他のプレイヤーと比べて利益を出している領域の一つとして、\"降りれるスポットを見つける\"は間違いなく上がってくるのではないでしょうか。 実際にポストフロップでブラフ過小を見抜き、エクスプロイトとして広く降りれるプレイヤーはそれなりに見かけますし、相対的に高い収支を出せているのではないかと想像します。 一方で、そのようなプレイヤーであっても、プリフロップでの適切なFoldレンジ",
+    "tags": [
+      "MTT",
+      "プリフロップ",
+      "フォールド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282665129/rectangle_large_type_2_093c090ba0cb3acc93f8a0fa3888c95a.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-0bd1aa33d4",
+    "title": "【月曜・無料】GTOドリル｜実戦再現3問｜COオープンへのBBディフェンス #2",
+    "url": "https://note.com/poker_gto/n/ned89f2c5fa0e",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281200978/rectangle_large_type_2_33304a6d0523942e725000256e836bf8.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-f258e2785a",
+    "title": "フォールドエクイティ：「降りた方が利益がある」場面がある。",
+    "url": "https://note.com/kakip4952/n/n436b22badebf",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2026-06-07",
+    "desc": "ポーカーをやっていると、こんな場面に何度も出くわします。 「KKが来た。強い。でも……降りた方がいいのか？」 「ドローが入らなかった。でも、ここでベットすれば相手が降りるかもしれない」 「オールインしてもフォールドされたら意味がないんじゃないか」 続きをみる",
+    "tags": [
+      "フォールド"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ba3ed25bc31845a027daf3296bc92537bbe64e60.png",
+    "source": "rss"
+  },
+  {
     "id": "auto-938d9fc44b",
     "title": "ブラフの真髄",
     "url": "https://note.com/ryu1poker_2nd/n/ndc577deada51",
@@ -8,7 +890,18 @@
     "date": "2026-06-06",
     "desc": "",
     "tags": [
-      "ブラフ"
+      "ブラフ",
+      "バリュー",
+      "理論",
+      "上級者向け",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "GTO",
+      "エクスプロイト",
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/282965230/rectangle_large_type_2_027ebb11f560e95e08a4728ba005932e.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -22,9 +915,19 @@
     "date": "2026-06-05",
     "desc": "",
     "tags": [
+      "理論",
+      "GTO",
+      "ポストフロップ",
+      "OOP",
+      "IP",
       "バリュー",
       "ブラフ",
-      "理論"
+      "ベット",
+      "コール",
+      "チェック",
+      "オールイン",
+      "ソルバー",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/282672552/rectangle_large_type_2_7a69bc6d69512c74fee00a079fb35dbd.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -39,7 +942,19 @@
     "desc": "",
     "tags": [
       "GTO",
-      "エクスプロイト"
+      "理論",
+      "エクスプロイト",
+      "ソルバー",
+      "勉強法",
+      "プリフロップ",
+      "ポストフロップ",
+      "ブラフ",
+      "バリュー",
+      "ベット",
+      "コール",
+      "フォールド",
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/282384169/rectangle_large_type_2_794cf0383539c50bcb7df0ac5f0b6017.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -53,13 +968,17 @@
     "date": "2026-05-31",
     "desc": "ソルバーを勉強していると、最初に目立つのは細かい混合頻度です。 しかし、実戦で大きくEVを落とすのは、細かい頻度よりももっと大きな構造のミスです。 続きをみる",
     "tags": [
-      "GTO",
-      "理論",
       "ソルバー",
       "リーク",
-      "ブラフ",
-      "ベット",
-      "レイズ"
+      "OOP",
+      "レイズ",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "ポストフロップ",
+      "リバー",
+      "バリュー",
+      "ブラフ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281394482/rectangle_large_type_2_8715175a96af7455ea1b707d81e9effa.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -74,7 +993,18 @@
     "desc": "ポーカーでは、よく「GTOで打つべきか、エクスプロイトで打つべきか」という話になります。 しかし、この二択は少し雑です。 続きをみる",
     "tags": [
       "GTO",
-      "エクスプロイト"
+      "エクスプロイト",
+      "理論",
+      "ソルバー",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "リバー",
+      "ブラフ",
+      "バリュー",
+      "ベット",
+      "チェックレイズ",
+      "フォールド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281394132/rectangle_large_type_2_f093236068bafec4e348673ad8b20659.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -90,7 +1020,16 @@
     "tags": [
       "GTO",
       "エクスプロイト",
-      "ソルバー"
+      "理論",
+      "ソルバー",
+      "ブラフ",
+      "コール",
+      "レイズ",
+      "フォールド",
+      "チェックレイズ",
+      "フロップ",
+      "ターン",
+      "リバー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281393537/rectangle_large_type_2_77a30e19d68ada4bb02cee77460cfac2.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -104,7 +1043,16 @@
     "date": "2026-05-31",
     "desc": "本記事は以下の記事を取り上げ、独自の視点で解説を加えた解説記事です。 出典・引用元: Put Your Hands Up! Another Poker Room Raided in Texas | PokerNews Podcast #968 解析（Insight） 続きをみる",
     "tags": [
-      "ヘッズアップ"
+      "プリフロップ",
+      "ポストフロップ",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "勉強法",
+      "ソルバー",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281331967/rectangle_large_type_2_fbf432b77e08713aa3c20bac70d1332c.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -118,7 +1066,12 @@
     "date": "2026-05-31",
     "desc": "今回は、前回の記事に引き続き、キャッシュゲームにおけるソフトスキルに着目し、特にメンタル面のケアに関して考えていければと思います。 過去記事でも少し触れたことがありますが、 実践の収支に影響を与える要素として、ポーカーのスキルはもちろん重要ですが、卓選び・最大パフォーマンスを発揮するためのメンタルケアといった点も同じくらい重要 になります。 筆者の感覚ですが、日本のポーカーシーンにおいて、ポーカー",
     "tags": [
-      "キャッシュゲーム"
+      "キャッシュゲーム",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/279900662/rectangle_large_type_2_a68bbb7989ba0726904acbb22db3a957.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -132,8 +1085,17 @@
     "date": "2026-05-31",
     "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 共通条件：6max・100BB・BTN 3BBオープン・S",
     "tags": [
+      "プリフロップ",
+      "GTO",
+      "SRP",
+      "3BP",
+      "特定のハンド",
+      "特定のボード",
+      "特定のスタック",
       "特定のポジション",
-      "GTO"
+      "特定の役",
+      "理論",
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281168789/rectangle_large_type_2_d59fb2810f0ffc7ad73d9979bbcc383f.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -148,10 +1110,9 @@
     "desc": "MTTを勉強するとき、多くのプレイヤーは序盤から中盤をチップEVで考え、バブルやファイナルテーブルに近づいてからICMを意識します。 これは自然な流れです。 続きをみる",
     "tags": [
       "MTT",
-      "理論",
-      "勉強法",
       "ICM",
-      "FT"
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281102106/rectangle_large_type_2_31279a24ef846a8c7e105846abd0f068.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -166,9 +1127,13 @@
     "desc": "トーナメントを勉強していると、必ずICMという言葉が出てきます。 ICMはIndependent Chip Modelの略で、トーナメントチップを賞金期待値に変換するためのモデルです。 続きをみる",
     "tags": [
       "MTT",
+      "ICM",
       "理論",
-      "勉強法",
-      "ICM"
+      "オールイン",
+      "コール",
+      "フォールド",
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281100578/rectangle_large_type_2_89f15bdb9bf9c67ce35b95335ba105fa.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -182,7 +1147,17 @@
     "date": "2026-05-31",
     "desc": "強いときは大きく、弱いときは小さくベットしてしまっていませんか？」 ポーカー（テキサスホールデム）において、ベット ...",
     "tags": [
-      "ベット"
+      "ベット",
+      "ポストフロップ",
+      "バリュー",
+      "ブラフ",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "SRP",
+      "IP",
+      "OOP"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9F9qsDTGxpo/mqdefault.jpg",
     "source": "youtube_api"
@@ -196,14 +1171,20 @@
     "date": "2026-05-31",
     "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
     "tags": [
-      "リバー",
-      "特定のハンド",
-      "特定のポジション",
-      "特定の役",
       "GTO",
+      "リバー",
+      "特定の役",
+      "特定のハンド",
+      "特定のスタック",
+      "オールイン",
       "ベット",
-      "チェック",
-      "オールイン"
+      "理論",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "ポストフロップ",
+      "ブラフ",
+      "バリュー"
     ],
     "thumbnail": "https://i.ytimg.com/vi/7_h1c4cSP4M/mqdefault.jpg",
     "source": "youtube_api"
@@ -218,8 +1199,27 @@
     "desc": "Breakdownタブでレンジ構造・サイズ・しきい値・エクスプロイトまで読み解く 続きをみる",
     "tags": [
       "GTO",
+      "ソルバー",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "ブラフ",
+      "バリュー",
+      "ベット",
+      "チェック",
+      "フォールド",
+      "IP",
+      "OOP",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
       "理論",
-      "ソルバー"
+      "エクスプロイト",
+      "ドロー",
+      "SRP",
+      "CB"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280972569/rectangle_large_type_2_0238f9c1413d3f7e5bc9474066c85a98.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -235,8 +1235,23 @@
     "tags": [
       "キャッシュゲーム",
       "MTT",
+      "プリフロップ",
+      "ポストフロップ",
       "アンティ",
-      "ICM"
+      "ICM",
+      "バリュー",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280905361/rectangle_large_type_2_1dedc933594b3e2c7c68466e38a2ca9b.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -250,8 +1265,26 @@
     "date": "2026-05-30",
     "desc": "今回のSituation お互いの情報 続きをみる",
     "tags": [
+      "キャッシュゲーム",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定のポジション",
+      "IP",
+      "OOP",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "ブラフ",
+      "ベット",
+      "チェック",
       "フォールド",
-      "リーク"
+      "SRP",
+      "3BP",
+      "ドロー",
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280811360/rectangle_large_type_2_9f9856bf7c069913858e499d4dcffd22.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -265,10 +1298,18 @@
     "date": "2026-05-30",
     "desc": "ブロッカーは、ソルバー学習で最も混乱しやすいテーマのひとつです。 あるスポットではJTsがブラフになり、別のスポットでは同じように見えるJTsがチェックになる。 続きをみる",
     "tags": [
-      "勉強法",
+      "ブロッカー",
       "ソルバー",
+      "理論",
+      "エクスプロイト",
+      "バリュー",
       "ブラフ",
-      "ブロッカー"
+      "プリフロップ",
+      "ポストフロップ",
+      "リバー",
+      "特定のハンド",
+      "特定のボード",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280793180/rectangle_large_type_2_a963b157fe9bab25705f899acd74cba4.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -282,9 +1323,40 @@
     "date": "2026-05-30",
     "desc": "GTO WizardのSolution Browserは、ソルバー結果を見るための中心的な画面です。 ただし、ただハンド表を眺めて「このハンドはベット」「このハンドはフォールド」と覚えようとすると、すぐに限界が来ます。 続きをみる",
     "tags": [
+      "ツール",
+      "ソルバー",
       "GTO",
-      "勉強法",
-      "ソルバー"
+      "理論",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "マルチウェイ",
+      "バリュー",
+      "ブラフ",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "4BP",
+      "CB",
+      "BMCB",
+      "ドロー",
+      "ブロッカー",
+      "ICM",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280901221/rectangle_large_type_2_3dd16de1c2bcbf7d9cc8e037c445f879.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -298,10 +1370,11 @@
     "date": "2026-05-30",
     "desc": "無料視聴するならABEMAで「AQOP」と検索🔍️ ━━━━━━━━━━━━━━━━━━━━━━ ▽番組詳細 現役最強ポーカー ...",
     "tags": [
+      "初心者向け",
       "GTO",
+      "理論",
       "勉強法",
-      "ソルバー",
-      "初心者向け"
+      "ルール"
     ],
     "thumbnail": "https://i.ytimg.com/vi/wqV7FhzTacg/mqdefault.jpg",
     "source": "youtube_api"
@@ -315,13 +1388,21 @@
     "date": "2026-05-30",
     "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
     "tags": [
+      "GTO",
       "ターン",
       "リバー",
+      "特定のハンド",
+      "特定のボード",
+      "特定のスタック",
+      "特定のポジション",
       "特定の役",
-      "GTO",
+      "特定のアクション",
+      "ポストフロップ",
+      "バリュー",
       "ベット",
       "チェック",
-      "特定のハンド"
+      "理論",
+      "ソルバー"
     ],
     "thumbnail": "https://i.ytimg.com/vi/OE3vsZjfDmw/mqdefault.jpg",
     "source": "youtube_api"
@@ -335,8 +1416,19 @@
     "date": "2026-05-30",
     "desc": "",
     "tags": [
+      "ポストフロップ",
+      "特定のスタック",
+      "OOP",
+      "IP",
+      "GTO",
+      "理論",
+      "ソルバー",
       "ベット",
-      "理論"
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/img/1780132300-2FcBwpkzYgaR1teW0hjyU7vI.png",
     "source": "fetch_creator"
@@ -350,8 +1442,17 @@
     "date": "2026-05-30",
     "desc": "",
     "tags": [
-      "ベット",
-      "理論"
+      "ソルバー",
+      "理論",
+      "プリフロップ",
+      "ポストフロップ",
+      "GTO",
+      "IP",
+      "OOP",
+      "特定のスタック",
+      "特定のハンド",
+      "特定のボード",
+      "ベット"
     ],
     "thumbnail": "https://assets.st-note.com/img/1780123576-pHSRAbYr40z6IEJs2VMFQ18l.png",
     "source": "fetch_creator"
@@ -365,8 +1466,33 @@
     "date": "2026-05-30",
     "desc": "",
     "tags": [
+      "理論",
+      "GTO",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "IP",
+      "OOP",
+      "バリュー",
+      "ブラフ",
       "ベット",
-      "理論"
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "CB",
+      "ドロー",
+      "ブロッカー",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/img/1780112839-ohtSG7Vd2yY4n0IK3Qq8Ar6v.png",
     "source": "fetch_creator"
@@ -380,9 +1506,19 @@
     "date": "2026-05-29",
     "desc": "〜ソルバーを「眺める」から「使いこなす」に変える実践的学習法〜 続きをみる",
     "tags": [
+      "ツール",
+      "ソルバー",
       "GTO",
       "勉強法",
-      "ソルバー"
+      "プリフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "SRP",
+      "3BP",
+      "中級者向け",
+      "上級者向け",
+      "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/281422285/rectangle_large_type_2_d0f79def2b940d4ff5cef257f28827a0.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -396,7 +1532,21 @@
     "date": "2026-05-29",
     "desc": "はじめに——「なんで負けるの！？」 ポーカーを始めて1ヶ月が経った頃、私は毎回同じことを叫んでいた。 続きをみる",
     "tags": [
-      "初心者向け"
+      "初心者向け",
+      "プリフロップ",
+      "フロップ",
+      "ポストフロップ",
+      "特定のハンド",
+      "特定の役",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の環境",
+      "理論",
+      "エクスプロイト",
+      "リーク",
+      "コール",
+      "フォールド",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280580599/rectangle_large_type_2_7a73e5182cfec4043ce0d37e9d3b1ac8.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -411,10 +1561,17 @@
     "desc": "こんばんは、 ポーカープロのtori🐦です。 今回もMTT対策の記事になります。 テーマは、 「相手の戦略に対するオールイン\"コール\"レンジの変化について」 です。 続きをみる",
     "tags": [
       "MTT",
-      "理論",
-      "上級者向け",
       "オールイン",
-      "コール"
+      "コール",
+      "ポストフロップ",
+      "理論",
+      "GTO",
+      "エクスプロイト",
+      "ICM",
+      "バウンティ",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280547981/rectangle_large_type_2_5f8aa900b47715f526b3576e8bd9cf90.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -448,8 +1605,14 @@
     "tags": [
       "MTT",
       "GTO",
+      "理論",
       "勉強法",
-      "ツール"
+      "ツール",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "サテライト",
+      "特殊ルール"
     ],
     "thumbnail": "https://i.ytimg.com/vi/mbj0vgrVwYs/mqdefault.jpg",
     "source": "youtube_api"
@@ -463,11 +1626,20 @@
     "date": "2026-05-29",
     "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
     "tags": [
+      "GTO",
       "フロップ",
       "ターン",
       "リバー",
+      "プリフロップ",
+      "ポストフロップ",
       "特定の役",
-      "GTO"
+      "特定のボード",
+      "ベット",
+      "コール",
+      "レイズ",
+      "フォールド",
+      "理論",
+      "ソルバー"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9r47rVUkjic/mqdefault.jpg",
     "source": "youtube_api"
@@ -513,9 +1685,37 @@
     "date": "2026-05-28",
     "desc": "2025年のWSOPの時期と11月に二回ラスベガスに渡米し5-10を打ってきました。アプリを用いてテーブルにいた全てのライブプレイヤーのPFアクションの頻度をPoker Action Counterを用いて記録しました。総ハンド数は4万に上ります。（Xにて日本人のとある方が作って提供をして下さったものです。調べれば出てくると思います。） Poker Action Counter 続きをみる",
     "tags": [
+      "キャッシュゲーム",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のポジション",
+      "特定のスタック",
       "特定の環境",
+      "IP",
+      "OOP",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "勉強法",
+      "ツール",
+      "ソルバー",
       "リーク",
-      "プリフロップ"
+      "中級者向け",
+      "上級者向け",
+      "バリュー",
+      "ブラフ",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "4BP",
+      "CB",
+      "ドロー",
+      "ブロッカー"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d43ea2d18df4c2eb6af5146e814f0468de64b51b.png",
     "source": "rss"
