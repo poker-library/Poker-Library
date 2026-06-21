@@ -882,6 +882,61 @@
     "source": "rss"
   },
   {
+    "id": "auto-bad9bf6be8",
+    "title": "１日１問GTO戦略クイズ【#36】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker #shorts #戦略",
+    "url": "https://www.youtube.com/watch?v=dsguMzSvCqI",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-07",
+    "desc": "LJ vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/dsguMzSvCqI/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-940b2e8412",
+    "title": "【GTOクイズ】チェックバック後のリバー。ノーペアのJ9c、チェックしてない？正解はオーバーベットブラフ #ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=WNn5q1hL-HY",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-07",
+    "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "ブラフ",
+      "ベット",
+      "チェック",
+      "リバー"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/WNn5q1hL-HY/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-9625b3cef5",
+    "title": "BvBのOOP戦略｜フロップでチェックコールした後どう戦うか",
+    "url": "https://japan.gtowizard.com/blog/navigating-bvb-oop-after-check-calling-the-flop/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2026-06-07",
+    "desc": "",
+    "tags": [
+      "フロップ",
+      "コール",
+      "チェック",
+      "ポストフロップ",
+      "OOP"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2026/06/header-5.png",
+    "source": "web_rss"
+  },
+  {
     "id": "auto-938d9fc44b",
     "title": "ブラフの真髄",
     "url": "https://note.com/ryu1poker_2nd/n/ndc577deada51",
@@ -905,6 +960,59 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/282965230/rectangle_large_type_2_027ebb11f560e95e08a4728ba005932e.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-6b2deb3e24",
+    "title": "【日曜・有料300円】GTOドリル｜週次難問10問｜BBディフェンス上級 #1",
+    "url": "https://note.com/poker_gto/n/n09f45c8cb506",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-06",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "上級者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281198917/rectangle_large_type_2_d60cf3ac862a542788ff490cb98caac3.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ae22c30def",
+    "title": "１日１問GTO戦略クイズ【#36】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker",
+    "url": "https://www.youtube.com/watch?v=csBK9Y27qOM",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-06",
+    "desc": "UTG+1 vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/csBK9Y27qOM/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-702ad8eb38",
+    "title": "【GTOクイズ】BTNがリバーでオーバーベット。OOPのポケットQQ、フォールドしてない？正解はコール #ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=VhpdO_2VXwg",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-06",
+    "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
+    "tags": [
+      "リバー",
+      "特定のポジション",
+      "GTO",
+      "ベット",
+      "コール",
+      "フォールド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/VhpdO_2VXwg/mqdefault.jpg",
+    "source": "youtube_api"
   },
   {
     "id": "auto-178dc36000",
@@ -933,6 +1041,94 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-3517686565",
+    "title": "【ポーカー戦略/トーナメント】サテライトのオールインレンジ+α②※上級者向け",
+    "url": "https://note.com/pokerpokerpro/n/n0f85be494a0b",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-05",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回は、こちらの記事の続編です。 続きをみる",
+    "tags": [
+      "MTT",
+      "理論",
+      "上級者向け",
+      "オールイン",
+      "サテライト"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c7f32aa47603c17f64eb08ba358734356525b448.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-6dad9b7c08",
+    "title": "【土曜・有料300円】GTOドリル｜週次まとめ10問 #001",
+    "url": "https://note.com/poker_gto/n/n6943f13cc0e7",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-05",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281189672/rectangle_large_type_2_3d3c5d0328a6c99635d700df01b870c7.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-34963caf91",
+    "title": "１日１問GTO戦略クイズ【#35】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker",
+    "url": "https://www.youtube.com/watch?v=QXLzpPrDkmM",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-05",
+    "desc": "CO vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/QXLzpPrDkmM/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-627c325a30",
+    "title": "【GTOクイズ】ナットフラッシュドローが外れたリバー。Aブロッカー持ちのA9、チェックしてない？正解はオーバーベット #ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=LHUAsiWLy6k",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-05",
+    "desc": "この問題の詳しい解説→ https://www.amazon.co.jp/dp/B0H28L97CV シリーズ第1巻（プリフロップ編）→ ...",
+    "tags": [
+      "リバー",
+      "特定のポジション",
+      "特定の役",
+      "GTO",
+      "ベット",
+      "チェック",
+      "ドロー",
+      "ブロッカー"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/LHUAsiWLy6k/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-1c4cd2ccc3",
+    "title": "実はシンプル｜ブラフで損しない判断基準",
+    "url": "https://www.youtube.com/watch?v=a7D9jFkqW00",
+    "author": "サボテンのポーカー",
+    "platform": "youtube",
+    "date": "2026-06-05",
+    "desc": "今回は初級者・中級者向けに、ブラフの判断基準を解説しました。 ブラフは、弱いハンドだから打つものではありません。",
+    "tags": [
+      "中級者向け",
+      "ブラフ",
+      "初心者向け"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/a7D9jFkqW00/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
     "id": "auto-6dba0658e2",
     "title": "均衡戦略(GTO) vs 搾取戦略(Exploit)",
     "url": "https://note.com/ryu1poker_2nd/n/n60c2bca3068c",
@@ -958,6 +1154,215 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/282384169/rectangle_large_type_2_794cf0383539c50bcb7df0ac5f0b6017.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-46eb0fc749",
+    "title": "【ポーカー戦略/トーナメント】サテライトのオールインレンジ+α①",
+    "url": "https://note.com/pokerpokerpro/n/n94b3e2e12552",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-04",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 いきなりですが、 トーナメントのサテライト(予選)で、 正しい戦略を知らずに損をしていませんか？ 続きをみる",
+    "tags": [
+      "MTT",
+      "オールイン",
+      "サテライト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282376167/rectangle_large_type_2_54bcffee3d20348c93bdc233012f31a1.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ba74bb0369",
+    "title": "【金曜・無料】GTOドリル｜スタック別3問｜50BB〜20BBで判断は変わる #1",
+    "url": "https://note.com/poker_gto/n/neb48185f528a",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-04",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のスタック",
+      "特定のポジション",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281189280/rectangle_large_type_2_be56bc4abcdebdc5a6cef02cf94d8747.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-7c7aff90ff",
+    "title": "１日１問GTO戦略クイズ【#34】 #ポーカー #gto #キャッシュゲーム #初心者 #カジノ #poker",
+    "url": "https://www.youtube.com/watch?v=NmwmaO1RrBw",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-06-04",
+    "desc": "CO vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "初心者向け",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/NmwmaO1RrBw/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-c2fbccd80b",
+    "title": "【ポーカーチェイス】とランク戦について私なりにまとめます",
+    "url": "https://note.com/calm_impala165/n/nc31273c88ec4",
+    "author": "めあ",
+    "platform": "note",
+    "date": "2026-06-03",
+    "desc": "ポーカーチェイスの環境と相手のリークを活かした立ち回りについてまとめました。 私も確認する用にこのnoteを書いているので、参考程度にしていただけると幸いです。 続きをみる",
+    "tags": [
+      "特定の環境"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281919406/rectangle_large_type_2_112f7ff64bf7ebbd18dcbbd98c1dc623.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-de41c0e6e3",
+    "title": "【ポーカー戦略】ついやってしまいがちなトーナメント中盤以降のミスと対処法①",
+    "url": "https://note.com/pokerpokerpro/n/nf56c0ee65ad3",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-03",
+    "desc": "こんばんは、 ポーカープロのtori🦜です。 今回は、トーナメント中盤以降の戦略と考え方について解説します。 続きをみる",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b1664525a9202f3523aaa015c8b2da00c9106a83.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-51eb725c83",
+    "title": "33%Betに革命を起こせ",
+    "url": "https://note.com/pandarake0110/n/ndc05f1f0cc12",
+    "author": "ぱんだらけポーカー",
+    "platform": "note",
+    "date": "2026-06-03",
+    "desc": "少しでもポーカーを勉強したことがある人なら、pot33%Betがどれほど優秀で汎用性の高いサイズなのかは、説明不要だと思います。 しかし人間とは不思議なもので、一度「33%Betは強力だ」と学んでしまうと、その知識を疑うことなく使い続けてしまうことがあります。 続きをみる",
+    "tags": [
+      "ベット"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/282065860/rectangle_large_type_2_294a22b4bb95a04aed4be4125bd478d8.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-a93cc16c5d",
+    "title": "【木曜・無料】GTOドリル｜ミス指摘3問｜QJsフォールド・54s 3bet #1",
+    "url": "https://note.com/poker_gto/n/nbfc28c75351e",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-03",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 今日は「間違ったアクション」が提示されます。何がどうNGな",
+    "tags": [
+      "プリフロップ",
+      "特定のスタック",
+      "GTO",
+      "理論",
+      "勉強法",
+      "ベット",
+      "フォールド",
+      "3bet"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281187776/rectangle_large_type_2_b4b76d1de55add3027910da9b95dba4e.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-cb7b9c0e08",
+    "title": "🌟重要記事【ポーカー戦略/MTT】相手タイプ毎の3betオールインレンジの調整※カウンターエクスプロイト戦略",
+    "url": "https://note.com/pokerpokerpro/n/n249b4f91ce10",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-02",
+    "desc": "こんばんは、 ポーカープロのtori🦜です。 今回はトーナメント(MTT)対策の記事になります。 トーナメントで好成績を収めたい人は、ぜひ最後まで読んでみてください。 続きをみる",
+    "tags": [
+      "MTT",
+      "プリフロップ",
+      "エクスプロイト",
+      "オールイン"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281760171/rectangle_large_type_2_d564d47d64e0577f2f88fcecc439dc4a.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-bd8baa396f",
+    "title": "3-Way: How to Exploit a Calling Station?",
+    "url": "https://blog.gtowizard.com/3-way-how-to-exploit-a-calling-station/",
+    "author": "GTO Wizard",
+    "platform": "blog",
+    "date": "2026-06-02",
+    "desc": "Andrew Brokos explores the key adjustments to the BTN’s raising range construction strategy when the BB is a calling station.",
+    "tags": [
+      "エクスプロイト",
+      "オールイン",
+      "コール",
+      "マルチウェイ"
+    ],
+    "thumbnail": "https://blog.gtowizard.com/content/2026/06/Header--8-.png",
+    "source": "web_rss"
+  },
+  {
+    "id": "auto-77280d4f0a",
+    "title": "レンジリーディングの基本 相手の行動からハンドクラスを読む",
+    "url": "https://note.com/yusuke_poker_th/n/nc39a5a801ff3",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-01",
+    "desc": "ポーカーで「相手のハンドを読む」と聞くと、特定のハンドを当てる作業を想像しがちです。 相手はAKなのか、セットなのか、フラッシュドローなのか。 続きをみる",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281613994/rectangle_large_type_2_746abaedc656f1fc744f8b91c8608364.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d901ff7926",
+    "title": "ポーカーのSPRとは スタック深度で戦略が変わる理由",
+    "url": "https://note.com/yusuke_poker_th/n/nf6075bd92e47",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-06-01",
+    "desc": "ポーカーで「100bb持っている」「20bbしかない」と言うとき、多くの人はスタックの絶対量に注目します。 しかし、戦略上もっと重要なのは、スタックそのものではなくSPRです。 続きをみる",
+    "tags": [
+      "特定のスタック",
+      "特定のポジション",
+      "SRP"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281887443/rectangle_large_type_2_0053e789da3c8b0949aeb2b0b3e84e53.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e43bb233a7",
+    "title": "【ポーカー戦略】マージナルハンドは、リバーでコールするべきか？",
+    "url": "https://note.com/pokerpokerpro/n/n235401ef140c",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-06-01",
+    "desc": "こんばんは、 ポーカープロのtori🦜です。 今回は、苦手とする人が多い 「マージナルハンドでのコール判断」 についての記事です。 続きをみる",
+    "tags": [
+      "リバー",
+      "特定のハンド",
+      "コール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/09fd26c245179aa1dc08e4683a4f1acb9aaed308.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-fc46b87739",
+    "title": "【火曜・無料】GTOドリル｜比較問題3問｜スーテッドvsオフスーテッド #1",
+    "url": "https://note.com/poker_gto/n/n142b0eb96e09",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-01",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 よくある場面をそのまま問題化 火 B：比較問題 2択の差異でGTO原則を浮き彫りに 水 C：レンジ当て マトリクスでレンジの形を掴む 木 D：ミス指摘 間違ったアクションの何が問題か 金 E：スタック別 スタック深度で判断がどう変わるか 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281185403/rectangle_large_type_2_e0bbce9c6a151d3a397030d4dd565715.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-227b6e464d",
@@ -1496,6 +1901,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/img/1780112839-ohtSG7Vd2yY4n0IK3Qq8Ar6v.png",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-7b0a5e7091",
+    "title": "メキシコシティのポーカールーム一覧｜レート・場所・特徴まとめ",
+    "url": "https://note.com/noble_turtle3503/n/ncc087399fe80",
+    "author": "ひやらこ",
+    "platform": "note",
+    "date": "2026-05-30",
+    "desc": "※この記事は全文無料で読むことができます 【はじめに】 2025年7月から2026年5月の約10か月の間、メキシコシティで大学に通いながらポーカーをプレーしていました。 続きをみる",
+    "tags": [
+      "特定の環境"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/92cd5bbac2bed2e36ab05fd7a5b4ebcfbad9023a.png",
+    "source": "rss"
   },
   {
     "id": "auto-f779bb7a57",
@@ -2097,6 +2516,20 @@
       "ソルバー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/280109821/rectangle_large_type_2_8d841b63210342b55418175827c65b29.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-89f958ec66",
+    "title": "ハンドショーしながらプリフロップオールインする行為について",
+    "url": "https://note.com/fragrans/n/ncb09b6eab290",
+    "author": "れく",
+    "platform": "note",
+    "date": "2026-05-25",
+    "desc": "Shuffle Up and Deal, れくです。 このご挨拶ということはポーカーの話です。 今回は𝕏に投稿された質問への回答と、注意喚起です。 本稿では、特に断りのない限り、執筆時点の最新版であるTDAルール2024年版を基準とします。 続きをみる",
+    "tags": [
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ec890a00e5ce5ec267ae9ff220e6822b689a0eeb.png",
     "source": "rss"
   },
   {
