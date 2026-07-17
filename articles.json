@@ -2412,6 +2412,94 @@
     "source": "rss"
   },
   {
+    "id": "auto-d610d9d633",
+    "title": "GTO Wizard Japan Blogのカテゴライズ - ①勉強指針",
+    "url": "https://note.com/fukka0000/n/n446c23e267a4",
+    "author": "机上の空論レクリエーショナル",
+    "platform": "note",
+    "date": "2026-06-21",
+    "desc": "※最終更新日時：2026/6/21 10:40 ※更新履歴 2026/1/30：現時点の全記事記載完了 続きをみる",
+    "tags": [
+      "GTO",
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/287332765/rectangle_large_type_2_15d7b99c8aee0b1583cf3ae3dcbcfed4.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-8d4f571ffb",
+    "title": "ポーカーバーで「初心者バレ」する所作5選｜行く前に知っておきたい段取りの話",
+    "url": "https://note.com/pokerface_app/n/nb4ff5465a137",
+    "author": "PokerFace｜ポーカー段取り教習所",
+    "platform": "note",
+    "date": "2026-06-21",
+    "desc": "ポーカーバーやアミューズメントカジノに初めて行くとき、ルールは覚えたのにテーブルでの「段取り」を知らなくて恥ずかしい思いをした——そんな声をよく聞きます。 続きをみる",
+    "tags": [
+      "初心者向け",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/bee478d7fae060e76102c640bf35ff60c7038c6b.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d262979738",
+    "title": "スターティングハンドレンジとは？初心者が最初に覚えるべきプリフロップ戦略",
+    "url": "https://note.com/poker_learning/n/n26640c22cc97",
+    "author": "PokerLearningLab",
+    "platform": "note",
+    "date": "2026-06-21",
+    "desc": "はじめに 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "フロップ",
+      "特定のハンド",
+      "理論",
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/287316175/rectangle_large_type_2_3f42ef75552e7322215240525c1b49d5.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e6f7ee09eb",
+    "title": "【月曜・無料】GTOドリル｜実戦再現3問｜UTG/HJオープンへのBBディフェンス #4",
+    "url": "https://note.com/poker_gto/n/n8b1b374076b7",
+    "author": "GTO研究所長",
+    "platform": "note",
+    "date": "2026-06-21",
+    "desc": "📅 今週の投稿スケジュール 月 A：実戦再現 UTG/HJオープンへのBBディフェンス 火 B：比較問題 UTG vs BTN ― 同じハンドで判断はどう変わる 水 C：レンジ当て UTGオープンレンジの形を掴む 木 D：ミス指摘 早いポジションへの対応ミス 金 E：スタック別 UTGオープン対応のスタック依存性 土・日 有料10問 A〜E各2問・応用レベル（300円） 続きをみる",
+    "tags": [
+      "特定のハンド",
+      "特定のスタック",
+      "特定のポジション",
+      "GTO",
+      "理論",
+      "リーク"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/281250660/rectangle_large_type_2_e09a9d59451b445ea2bd1e87c30b7abb.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ba4c03410a",
+    "title": "【GTO衝撃の真実】OOPのトップペア、まずドンクベット？GTOはチェックが90%の衝撃 #ポーカー #GTO #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=lPDya06P4Is",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-06-21",
+    "desc": "GTOを体系的に学ぶ→ https://www.amazon.co.jp/dp/B0H25SQQM2 今日の乖離：OOPのトップペアでドンクベット、GTOは90% ...",
+    "tags": [
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "GTO",
+      "ベット",
+      "チェック",
+      "BMCB"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/lPDya06P4Is/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
     "id": "auto-ef9f01fb91",
     "title": "ポーカー用語集100選【初心者が知っておくべき必須ワード】",
     "url": "https://note.com/poker_jp/n/n61b835b14f3b",
@@ -2430,6 +2518,27 @@
       "ブラフ"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e5d7f3c6f36dcb81ae117c5a2a262cf2d40fa946.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-39a16f9200",
+    "title": "自分用メモ:ペアボードのCB戦略(single size mode)",
+    "url": "https://note.com/t_b_note/n/nb1edc9ff7a4e",
+    "author": "taka",
+    "platform": "note",
+    "date": "2026-06-15",
+    "desc": "昨日、Wizardでポストフロップについてのコーチング動画を見ていて、勉強するテクスチャ優先度について参考になったので、共有。 優先すべきテクスチャは上から Ahiボード ペア・Tripsボード u9hiボード Khiボード Qhiボード Jhiボード Thiボード モノトーンボード GTO Wizard Beat the best and crush the rest with GTO Wiza",
+    "tags": [
+      "ポストフロップ",
+      "フロップ",
+      "特定のボード",
+      "特定のポジション",
+      "GTO",
+      "勉強法",
+      "ツール",
+      "ソルバー"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fab01c3485c7fc096af7c9c9962bfbc0fc1d2335.png",
     "source": "rss"
   },
   {
